@@ -1,0 +1,75 @@
+﻿Discrepancy,Plate,Well,Sample_Code,Confidence_Level,Confidence_Label,Level_Note,Evidence_Intensity,Raw_Ejection_Intensity,Previous_Ejection_Intensity,Detected,HPLC_Result,HPLC_Conversion,Ions_Detected,Echo_Product_Ratio_%,SM_Interference,Reason
+"false present (level 4-5, no product in HPLC-MS)",1,O20,GBR-1235,5,Present,,1160000.0,1960000.0,80000.0,1,no signal (counted as not detected),,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,J10,GBR-1105,4,Likely present,,220000.0,320000.0,160000.0,1,no product,0.0,[M+H]+,37.2,,
+"false present (level 4-5, no product in HPLC-MS)",1,N10,GBR-1201,4,Likely present,,400000.0,1760000.0,240000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,N21,GBR-1212,4,Likely present,,360000.0,720000.0,60000.0,1,no signal (counted as not detected),,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,N23,GBR-1214,4,Likely present,,600000.0,1220000.0,20000.0,1,no signal (counted as not detected),,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,O18,GBR-1233,4,Likely present,,200000.0,300000.0,320000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,O23,GBR-1238,4,Likely present,,700000.0,1080000.0,160000.0,1,no signal (counted as not detected),,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,P10,GBR-1249,4,Likely present,,800000.0,1260000.0,140000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",1,P20,GBR-1259,4,Likely present,,460000.0,1440000.0,100000.0,1,no signal (counted as not detected),,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",2,A9,GBR-1272,5,Present,,1920000.0,4520000.0,1100000.0,1,indeterminate (counted as not detected),,[M+H]+,51.7,,
+"false present (level 4-5, no product in HPLC-MS)",2,F15,GBR-1398,5,Present,,2200000.0,8920000.0,140000.0,1,no signal (counted as not detected),,[M+H]+; [M+Na]+,95.9,,
+"false present (level 4-5, no product in HPLC-MS)",2,F16,GBR-1399,5,Present,,1120000.0,2080000.0,80000.0,1,no signal (counted as not detected),,[M+H]+; [M+Na]+,81.9,,
+"false present (level 4-5, no product in HPLC-MS)",2,O14,GBR-1613,5,Present,,1240000.0,5420000.0,160000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",2,C9,GBR-1320,4,Likely present,,640000.0,940000.0,520000.0,1,indeterminate (counted as not detected),,[M+H]+,18.4,,
+"false present (level 4-5, no product in HPLC-MS)",2,C18,GBR-1329,4,Likely present,,640000.0,2280000.0,1200000.0,1,no product,0.0,[M+H]+,34.8,,
+"false present (level 4-5, no product in HPLC-MS)",2,C23,GBR-1334,4,Likely present,,340000.0,520000.0,80000.0,1,no product,0.0,[M+H]+,16.5,,
+"false present (level 4-5, no product in HPLC-MS)",2,D9,GBR-1344,4,Likely present,,740000.0,1680000.0,440000.0,1,indeterminate (counted as not detected),,[M+H]+,32.9,,
+"false present (level 4-5, no product in HPLC-MS)",2,E9,GBR-1368,4,Likely present,,440000.0,1200000.0,380000.0,1,indeterminate (counted as not detected),,[M+H]+,6.7,,
+"false present (level 4-5, no product in HPLC-MS)",2,E17,GBR-1376,4,Likely present,,600000.0,1060000.0,180000.0,1,no product,0.0,[M+H]+,30.6,,
+"false present (level 4-5, no product in HPLC-MS)",2,F9,GBR-1392,4,Likely present,,360000.0,1300000.0,220000.0,1,indeterminate (counted as not detected),,[M+H]+,24.4,,
+"false present (level 4-5, no product in HPLC-MS)",2,G18,GBR-1425,4,Likely present,,220000.0,540000.0,80000.0,1,no product,0.0,[M+H]+,19.6,,
+"false present (level 4-5, no product in HPLC-MS)",2,G22,GBR-1429,4,Likely present,,320000.0,1480000.0,300000.0,1,no product,0.0,[M+H]+,36.3,,
+"false present (level 4-5, no product in HPLC-MS)",2,H22,GBR-1453,4,Likely present,,360000.0,1940000.0,540000.0,1,no product,0.0,[M+H]+,50.8,,
+"false present (level 4-5, no product in HPLC-MS)",2,I9,GBR-1464,4,Likely present,,320000.0,1140000.0,440000.0,1,indeterminate (counted as not detected),,[M+H]+,47.5,,
+"false present (level 4-5, no product in HPLC-MS)",2,I19,GBR-1474,4,Likely present,,240000.0,500000.0,240000.0,1,no product,0.0,[M+H]+,50.0,,
+"false present (level 4-5, no product in HPLC-MS)",2,I22,GBR-1477,4,Likely present,,400000.0,640000.0,140000.0,1,no product,0.0,[M+H]+,16.4,,
+"false present (level 4-5, no product in HPLC-MS)",2,J9,GBR-1488,4,Likely present,,240000.0,660000.0,180000.0,1,indeterminate (counted as not detected),,[M+H]+,45.8,,
+"false present (level 4-5, no product in HPLC-MS)",2,J11,GBR-1490,4,Likely present,,280000.0,780000.0,180000.0,1,no product,0.0,[M+H]+,68.4,,
+"false present (level 4-5, no product in HPLC-MS)",2,K9,GBR-1512,4,Likely present,,420000.0,720000.0,120000.0,1,indeterminate (counted as not detected),,[M+H]+,49.3,,
+"false present (level 4-5, no product in HPLC-MS)",2,K18,GBR-1521,4,Likely present,,700000.0,1340000.0,300000.0,1,no product,0.0,[M+H]+,26.3,,
+"false present (level 4-5, no product in HPLC-MS)",2,L9,GBR-1536,4,Likely present,,280000.0,660000.0,200000.0,1,indeterminate (counted as not detected),,[M+H]+,60.0,,
+"false present (level 4-5, no product in HPLC-MS)",2,M9,GBR-1560,4,Likely present,,200000.0,600000.0,60000.0,1,indeterminate (counted as not detected),,[M+H]+,39.5,,
+"false present (level 4-5, no product in HPLC-MS)",2,M19,GBR-1570,4,Likely present,,200000.0,660000.0,200000.0,1,no product,0.0,[M+H]+,45.8,,
+"false present (level 4-5, no product in HPLC-MS)",2,M20,GBR-1571,4,Likely present,,640000.0,3500000.0,220000.0,1,no product,0.0,[M+H]+,74.5,,
+"false present (level 4-5, no product in HPLC-MS)",2,N11,GBR-1586,4,Likely present,,360000.0,800000.0,60000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",2,O5,GBR-1604,4,Likely present,,280000.0,1060000.0,120000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",2,O22,GBR-1621,4,Likely present,,400000.0,5340000.0,700000.0,1,no product,0.0,[M+H]+,,,
+"false present (level 4-5, no product in HPLC-MS)",2,P15,GBR-1638,4,Likely present,,680000.0,820000.0,300000.0,1,no signal (counted as not detected),,[M+H]+,89.1,,
+"false present (level 4-5, no product in HPLC-MS)",2,P16,GBR-1639,4,Likely present,,420000.0,1640000.0,240000.0,1,no signal (counted as not detected),,[M+H]+; [M+Na]+,91.1,,
+"false present (level 4-5, no product in HPLC-MS)",2,P17,GBR-1640,4,Likely present,,280000.0,320000.0,180000.0,1,no signal (counted as not detected),,[M+H]+,40.0,,
+"product missed (level 1-2, product in HPLC-MS)",1,B8,GBR-911,2,Likely absent,,60000.0,300000.0,120000.0,0,product,10.14406637,,32.6,,[M+H]+: M peak without a valid M+1; [M+Na]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",1,B23,GBR-926,2,Likely absent,,0.0,120000.0,80000.0,0,product,15.29043368,,13.3,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,C3,GBR-930,2,Likely absent,,0.0,140000.0,200000.0,0,product,19.91558899,,33.3,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,C17,GBR-944,2,Likely absent,,0.0,140000.0,0.0,0,product,20.40756372,,33.3,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,D7,GBR-958,2,Likely absent,,40000.0,160000.0,80000.0,0,product,8.384102487,,21.1,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,D17,GBR-968,2,Likely absent,,0.0,200000.0,80000.0,0,product,17.4469201,,52.6,,[M+H]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",1,E21,GBR-996,2,Likely absent,,0.0,140000.0,200000.0,0,product,19.95224558,,,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,F17,GBR-1016,2,Likely absent,,0.0,160000.0,240000.0,0,product,59.44493657,,21.1,,[M+Na]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",1,H1,GBR-1048,2,Likely absent,,0.0,200000.0,100000.0,0,product,19.87012074,,40.0,,[M+H]+: M peak without a valid M+1; [M+Na]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",1,H3,GBR-1050,2,Likely absent,,40000.0,300000.0,280000.0,0,product,11.45788707,,34.9,,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",1,H17,GBR-1064,2,Likely absent,,0.0,120000.0,20000.0,0,product,16.03144516,,27.3,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,H23,GBR-1070,2,Likely absent,,0.0,120000.0,100000.0,0,product,6.54560218,,17.6,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,I23,GBR-1094,2,Likely absent,,0.0,120000.0,220000.0,0,product,14.73943008,,,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,J1,GBR-1096,2,Likely absent,,0.0,200000.0,120000.0,0,product,41.46135159,,41.7,,[M+H]+: valid in 1 spectrum only; [M+Na]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",1,J17,GBR-1112,2,Likely absent,,0.0,140000.0,100000.0,0,product,15.09289325,,46.7,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,L6,GBR-1149,2,Likely absent,,0.0,220000.0,340000.0,0,product,13.92164159,,45.8,,[M+H]+: valid in 1 spectrum only; [M+Na]+: valid in 3 spectra but only 0.97x the background of wells with the same starting material (< 2x)
+"product missed (level 1-2, product in HPLC-MS)",1,A21,GBR-900,1,Not detected,,0.0,60000.0,60000.0,0,product,8.813985053,,13.0,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,I1,GBR-1072,1,Not detected,,0.0,100000.0,120000.0,0,product,5.785393224,,,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,J23,GBR-1118,1,Not detected,,0.0,60000.0,20000.0,0,product,34.17071776,,13.0,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,K21,GBR-1140,1,Not detected,,0.0,60000.0,100000.0,0,product,6.708436367,,,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,L1,GBR-1144,1,Not detected,,0.0,80000.0,40000.0,0,product,29.25972341,,12.5,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",1,L13,GBR-1156,1,Not detected,,0.0,100000.0,160000.0,0,product,17.43458893,,10.4,,[M+Na]+: valid in 2 spectra but only 1.69x the background of wells with the same starting material (< 2x)
+"product missed (level 1-2, product in HPLC-MS)",1,L21,GBR-1164,1,Not detected,,0.0,80000.0,80000.0,0,product,20.09009326,,19.0,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",2,B19,GBR-1306,2,Likely absent,,0.0,340000.0,580000.0,0,product,12.97807278,,16.8,,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",2,C5,GBR-1316,2,Likely absent,,0.0,320000.0,500000.0,0,product,10.8877604,,11.6,,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",2,C10,GBR-1321,2,Likely absent,,0.0,200000.0,280000.0,0,product,5.17027072,,8.5,[SM+K]+ 444.10 is +0.84 Da from product [M+H]+,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",2,G19,GBR-1426,2,Likely absent,,0.0,480000.0,220000.0,0,product,19.09596979,,22.4,,[M+H]+: valid in 3 spectra but only 1.5x the background of wells with the same starting material (< 2x); [M+Na]+: valid in 3 spectra but only 1.88x the background of wells with the same starting material (< 2x)
+"product missed (level 1-2, product in HPLC-MS)",2,H19,GBR-1450,2,Likely absent,,0.0,380000.0,100000.0,0,product,11.0365289,,16.4,,[M+H]+: valid in 3 spectra but only 1.9x the background of wells with the same starting material (< 2x); [M+Na]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",2,K5,GBR-1508,2,Likely absent,,0.0,160000.0,120000.0,0,product,10.48084115,,2.4,,[M+Na]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",2,L8,GBR-1535,2,Likely absent,,0.0,260000.0,240000.0,0,product,17.63599516,,33.3,,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",2,L19,GBR-1546,2,Likely absent,,0.0,140000.0,120000.0,0,product,11.47091352,,11.9,,no ion signal above the cutoff
+"product missed (level 1-2, product in HPLC-MS)",2,N8,GBR-1583,2,Likely absent,,0.0,240000.0,240000.0,0,product,6.691635241,,,,[M+H]+: valid in 1 spectrum only
+"product missed (level 1-2, product in HPLC-MS)",2,P8,GBR-1631,2,Likely absent,,0.0,200000.0,60000.0,0,product,16.76070075,,17.2,,[M+H]+: M peak without a valid M+1
+"product missed (level 1-2, product in HPLC-MS)",2,P5,GBR-1628,1,Not detected,,0.0,40000.0,160000.0,0,product,5.081750315,,1.9,,[M+Na]+: M peak without a valid M+1

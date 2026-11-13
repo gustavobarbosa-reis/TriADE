@@ -1,0 +1,2 @@
+Plate 1: 17 ejection(s) flagged by the run QC (weak pulse or internal standard).
+Plate 2: 15 ejection(s) flagged by the run QC (weak pulse or internal standard).

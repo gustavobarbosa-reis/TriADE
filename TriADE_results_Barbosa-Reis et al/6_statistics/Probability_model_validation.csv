@@ -1,0 +1,4 @@
+﻿Fitted_on,Tested_on,Wells,AUC,Brier
+plates except 1,plate 1,384,0.927,0.102
+plates except 2,plate 2,384,0.903,0.1258
+all plates,all plates (same data),768,0.923,0.1051

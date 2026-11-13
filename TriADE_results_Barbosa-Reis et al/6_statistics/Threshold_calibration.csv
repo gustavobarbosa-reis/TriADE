@@ -1,0 +1,4 @@
+﻿Fitted_on,Tested_on,Present_threshold_cps,Absent_threshold_cps,called_present,false_present,called_absent,products_missed,to_HPLC_MS,wells,false_present_%,products_missed_%,Note
+all plates,all plates (same data),840000.0,80000.0,135,7,81,6,552,768,0.91,0.78,
+plates except 1,plate 1,1320000.0,180000.0,25,0,161,17,198,384,0.0,4.43,
+plates except 2,plate 2,760000.0,60000.0,88,5,16,1,280,384,1.3,0.26,

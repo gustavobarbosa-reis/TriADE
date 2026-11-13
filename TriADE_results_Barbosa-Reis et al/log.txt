@@ -1,0 +1,6 @@
+WARNING  16 SMILES with a radical atom corrected (H added).
+WARNING  Molecular weight in the table differs by more than 0.5 from the SMILES in 16 well(s): A4, B4, C4, D4, E4, F4, G4, H4, I4, J4, K4, L4, M4, N4, O4, P4
+WARNING    1 scans without 'scan start time': time interpolated.
+WARNING    1 scans without 'scan start time': time interpolated.
+WARNING  Plate 1: 17 ejection(s) flagged by the run QC (weak pulse or internal standard).
+WARNING  Plate 2: 15 ejection(s) flagged by the run QC (weak pulse or internal standard).
