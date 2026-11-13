@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "triade"
+version = "1.4.0"
+description = "TriADE: product detection in acoustic-ejection mass spectrometry (Echo-MS) plate runs, with confidence levels and HPLC-MS triage"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Gustavo Barbosa-Reis" }, { name = "Elisabetta La Scola" }, { name = "Thiago Moreira Pereira" },
+    { name = "Martina Kintlova" }, { name = "Matteo Mori" }, { name = "Fiorella Meneghetti" },
+    { name = "Peter Džubák" }, { name = "Diogo Oliveira-Silva" }, { name = "Alexander Dömling" },
+]
+keywords = ["mass spectrometry", "acoustic ejection", "Echo-MS", "ADE-MS", "TriADE", "high-throughput experimentation", "mzML"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Chemistry",
+]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+    "openpyxl>=3.1",
+    "lxml>=4.9",
+]
+
+[project.optional-dependencies]
+chem = ["rdkit>=2023.3"]
+app = ["streamlit>=1.40", "rdkit>=2023.3"]
+numpress = ["pyteomics>=4.6", "psims", "pynumpress"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+triade = "triade.cli:main"
+triade-app = "triade.app_launcher:main"
+triade-synthetic = "triade.synthetic:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

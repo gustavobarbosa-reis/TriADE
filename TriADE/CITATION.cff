@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below (preferred-citation)."
+type: software
+title: "Triple-ADE Workflow Integrating Nanoscale Chemistry, ECHO-MS Reaction Analysis, and Direct-to-Biology Kinase Screening"
+version: 1.4.0
+date-released: 2026-11-13
+license: MIT
+# Software DOI (e.g. a Zenodo archive of this repository): remove the "#" and fill in when available.
+# doi: "10.xxxx/xxxxxxx"
+authors: &authors
+  - given-names: Gustavo
+    family-names: Barbosa-Reis
+  - given-names: Elisabetta
+    family-names: La Scola
+  - given-names: Thiago Moreira
+    family-names: Pereira
+  - given-names: Martina
+    family-names: Kintlova
+  - given-names: Matteo
+    family-names: Mori
+  - given-names: Fiorella
+    family-names: Meneghetti
+  - given-names: Peter
+    family-names: Džubák
+  - given-names: Diogo
+    family-names: Oliveira-Silva
+  - given-names: Alexander
+    family-names: Dömling
+preferred-citation:
+  type: article
+  title: "Triple-ADE Workflow Integrating Nanoscale Chemistry, ECHO-MS Reaction Analysis, and Direct-to-Biology Kinase Screening"
+  authors: *authors
+  # When the article is accepted / published, remove the "#" in front of each line below and fill it in:
+  # journal: "Journal name"
+  # doi: "10.xxxx/xxxxxxx"
+  # year: 2027
+  # volume: 0
+  # issue: 0
+  # start: 1
+  # end: 10

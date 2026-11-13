@@ -1,0 +1,7 @@
+Plate,Well,Sample_Code,Product_SMILES,SM_SMILES,Injection_Order
+1,A1,S-0001,C1COCCN1c1ncccn1,Clc1ncccn1,1
+1,A2,S-0002,CN(C)c1ncccn1,Clc1ncccn1,2
+1,A3,S-0003,C1CCN(CC1)c1ncccn1,Clc1ncccn1,3
+1,B3,S-0004,C1COCCN1c1ccc(cn1)C#N,Clc1ccc(cn1)C#N,4
+1,B2,S-0005,CN(C)c1ccc(cn1)C#N,Clc1ccc(cn1)C#N,5
+1,B1,S-0006,C1CCN(CC1)c1ccc(cn1)C#N,Clc1ccc(cn1)C#N,6
